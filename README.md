@@ -1,4 +1,4 @@
-## IV1351
+## SoundGood
 
 The soundgooddb.sql file contains SQL queries to inserts all tables into the database.<br/>
 The soundgoodinsert.sql file contains SQL queries to insert the data into the tables in the database, to test queries.
